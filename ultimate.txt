@@ -21,4 +21,4 @@
 0.0.0.0 ricercaindipendente.net
 0.0.0.0 saltoquantico.net
 0.0.0.0 segnidalcielo.it
-0.0.0.0 alfredolio.wordpress.com/
+0.0.0.0 alfredolio.wordpress.com
