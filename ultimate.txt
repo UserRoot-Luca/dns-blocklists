@@ -1,3 +1,9 @@
+# 
+# 
+# Sources: https://www.butac.it/the-black-list/
+# 
+# ===============================================================
+
 0.0.0.0 0585news.com
 0.0.0.0 100giornidaleoni.it
 0.0.0.0 24orenotizie.com
@@ -257,7 +263,6 @@
 0.0.0.0 summit.news
 0.0.0.0 supernotizie.net
 0.0.0.0 tankerenemymeteo.blogspot.it
-0.0.0.0 terrarealtime.blogspot.com
 0.0.0.0 terrarealtime.blogspot.com
 0.0.0.0 terrarealtime2.blogspot.com
 0.0.0.0 tg-news24.com
