@@ -1,6 +1,7 @@
 # 
 # 
 # Sources: https://www.butac.it/the-black-list/
+# Sources 2: other
 # 
 # ===============================================================
 
@@ -151,6 +152,7 @@
 0.0.0.0 jedasupport.altervista.org
 0.0.0.0 jhwhinri.blogspot.it
 0.0.0.0 kevideo.eu
+0.0.0.0 killdogma.forumfree.it
 0.0.0.0 kontrokultura.it
 0.0.0.0 lacucinasiciliana.altervista.org
 0.0.0.0 lapekoranera.it
@@ -222,6 +224,7 @@
 0.0.0.0 politikstube.com
 0.0.0.0 presadicoscienza.altervista.org
 0.0.0.0 questaitalia.wordpress.com
+0.0.0.0 radioradio.it
 0.0.0.0 raffaelepalermonews.com
 0.0.0.0 raggioindaco.wordpress.com
 0.0.0.0 rainews24.live
@@ -230,6 +233,7 @@
 0.0.0.0 realscience.altervista.org
 0.0.0.0 reattivonews.com
 0.0.0.0 recnews.it
+0.0.0.0 reloaded.info
 0.0.0.0 repubblica24.com
 0.0.0.0 ribelli.tv
 0.0.0.0 ricercaindipendente.net
@@ -238,6 +242,7 @@
 0.0.0.0 rivoluzioneoraomaipiu.com
 0.0.0.0 robadapazzi.com
 0.0.0.0 rollingston.altervista.org
+0.0.0.0 rumble.com
 0.0.0.0 sadefenza.blogspot.it
 0.0.0.0 saltoquantico.net
 0.0.0.0 salute360gradi.altervista.org
@@ -448,18 +453,21 @@
 0.0.0.0 www.pianetablunews.it
 0.0.0.0 www.piovegovernoladro.info
 0.0.0.0 www.politikstube.com
+0.0.0.0 www.radioradio.it
 0.0.0.0 www.raffaelepalermonews.com
 0.0.0.0 www.rainews24.live
 0.0.0.0 www.rassegnastampa.eu
 0.0.0.0 www.rassegneitalia.info
 0.0.0.0 www.reattivonews.com
 0.0.0.0 www.recnews.it
+0.0.0.0 www.reloaded.info
 0.0.0.0 www.repubblica24.com
 0.0.0.0 www.ribelli.tv
 0.0.0.0 www.ricercaindipendente.net
 0.0.0.0 www.rischiocalcolato.it
 0.0.0.0 www.rivoluzioneoraomaipiu.com
 0.0.0.0 www.robadapazzi.com
+0.0.0.0 www.rumble.com
 0.0.0.0 www.saltoquantico.net
 0.0.0.0 www.saper-link-news.com
 0.0.0.0 www.sapereeundovere.com
