@@ -483,6 +483,7 @@
 0.0.0.0 www.tg-quotidiano.net
 0.0.0.0 www.tg24-ore.com
 0.0.0.0 www.tg24italia.com
+0.0.0.0 www.tg5stelle.it
 0.0.0.0 www.thelivingspirits.net
 0.0.0.0 www.thetonicexpress.com
 0.0.0.0 www.tmcrew.org
