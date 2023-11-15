@@ -306,4 +306,3 @@
 0.0.0.0 ||zapping2017.myblog.it^
 0.0.0.0 ||zerohedge.com^
 0.0.0.0 ||zonagrigianews.com^
-0.0.0.0 ||zonagrigianews.com^
