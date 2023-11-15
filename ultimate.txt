@@ -1,8 +1,8 @@
-# 
-# 
+#
+#              ( LAST UPDATE SEPTEMBER )
 # Sources: https://www.butac.it/the-black-list/
 # Sources 2: other
-# 
+#
 # ===============================================================
 
 0.0.0.0 ||0585news.com^
