@@ -1,5 +1,5 @@
 #
-#              ( LAST UPDATE SEPTEMBER )
+#        ( BUTAC LAST VERSION SEPTEMBER )
 # Sources: https://www.butac.it/the-black-list/
 # Sources 2: other
 #
@@ -233,6 +233,7 @@
 0.0.0.0 ||realscience.altervista.org^
 0.0.0.0 ||reattivonews.com^
 0.0.0.0 ||recnews.it^
+0.0.0.0 ||redronnie.it^
 0.0.0.0 ||reloaded.info^
 0.0.0.0 ||repubblica24.com^
 0.0.0.0 ||ribelli.tv^
