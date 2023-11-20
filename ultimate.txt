@@ -38,9 +38,11 @@
 0.0.0.0 ||blognews24ore.com^
 0.0.0.0 ||blogopenyoureyes.altervista.org^
 0.0.0.0 ||borderlinez.com^
+0.0.0.0 ||bordernights.it^
 0.0.0.0 ||breaknotizie.com^
 0.0.0.0 ||buonamente.com^
 0.0.0.0 ||byoblu.com^
+0.0.0.0 ||casadelsole.tv^
 0.0.0.0 ||catenaumana.com^
 0.0.0.0 ||centrometeoitaliano.it^
 0.0.0.0 ||chesuccede.it^
@@ -109,6 +111,7 @@
 0.0.0.0 ||il-quotidiano.info^
 0.0.0.0 ||ilbazarinformazione.blogspot.it^
 0.0.0.0 ||ilbellocheavanza.com^
+0.0.0.0 ||ilbharat.it^
 0.0.0.0 ||ilfarosulmondo.it^
 0.0.0.0 ||ilfattaccio.org^
 0.0.0.0 ||ilfattodalweb.com^
