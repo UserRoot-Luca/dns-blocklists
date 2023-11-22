@@ -277,6 +277,7 @@
 0.0.0.0 ||rivoluzioneoraomaipiu.com^
 0.0.0.0 ||robadapazzi.com^
 0.0.0.0 ||rollingston.altervista.org^
+0.0.0.0 ||rt.com^
 0.0.0.0 ||rumble.com^
 0.0.0.0 ||sadefenza.blogspot.it^
 0.0.0.0 ||saltoquantico.net^
@@ -309,6 +310,8 @@
 0.0.0.0 ||supernotizie.net^
 0.0.0.0 ||tankerenemy.com^
 0.0.0.0 ||tankerenemymeteo.blogspot.it^
+0.0.0.0 ||tass.com^
+0.0.0.0 ||tass.ru^
 0.0.0.0 ||terrarealtime.blogspot.com^
 0.0.0.0 ||terrarealtime2.blogspot.com^
 0.0.0.0 ||tg-news24.com^
