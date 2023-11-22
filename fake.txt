@@ -186,6 +186,7 @@
 0.0.0.0 ||libero-notizie.com^
 0.0.0.0 ||liberogiornale.com^
 0.0.0.0 ||liberonotizie.com^
+0.0.0.0 ||liberoquotidiano.it^
 0.0.0.0 ||libreidee.org^
 0.0.0.0 ||lineadiretta24.it^
 0.0.0.0 ||linktoday.it^
