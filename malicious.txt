@@ -6,3 +6,6 @@
 
 0.0.0.0 ||clckr.cc^
 0.0.0.0 ||cprapid.com^
+0.0.0.0 ||hymcey.com^
+0.0.0.0 ||alphafitpro.com^
+0.0.0.0 ||nijenterprise.in^
