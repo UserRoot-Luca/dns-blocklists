@@ -4,8 +4,29 @@
 #
 # ===============================================================
 
+0.0.0.0 ||1637inps.top^
+0.0.0.0 ||8t6.ltd^
+0.0.0.0 ||alphafitpro.com^
+0.0.0.0 ||bhg.life^
+0.0.0.0 ||bposte.it^
 0.0.0.0 ||clckr.cc^
+0.0.0.0 ||controllo-dati-info.com^
 0.0.0.0 ||cprapid.com^
 0.0.0.0 ||hymcey.com^
-0.0.0.0 ||alphafitpro.com^
+0.0.0.0 ||I7w.us^
+0.0.0.0 ||inbk0000.ml^
+0.0.0.0 ||ing-direct-accesso.com^
+0.0.0.0 ||is.gd^
+0.0.0.0 ||leggi.at^
+0.0.0.0 ||m9d.us^
+0.0.0.0 ||monte-paschi-siena.com^
+0.0.0.0 ||n1yr.com^
+0.0.0.0 ||nenadkovacic.com^
 0.0.0.0 ||nijenterprise.in^
+0.0.0.0 ||o93.me^
+0.0.0.0 ||postepayitalia.net^
+0.0.0.0 ||preview-domain.com^
+0.0.0.0 ||uncredit-italia.com^
+0.0.0.0 ||wcomhost.com^
+0.0.0.0 ||whatsappitaly.it^
+0.0.0.0 ||zb5.me^
