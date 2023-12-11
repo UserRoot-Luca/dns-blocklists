@@ -119,7 +119,6 @@
 0.0.0.0 ||ilfattaccio.org^
 0.0.0.0 ||ilfattodalweb.com^
 0.0.0.0 ||ilgiornale.it^
-0.0.0.0 ||ilgiornale.it^
 0.0.0.0 ||ilgiornaleditalia.it^
 0.0.0.0 ||ilgiornaleitaliano.it^
 0.0.0.0 ||ilgiornalenews.com^
