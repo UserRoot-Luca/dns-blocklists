@@ -1,5 +1,5 @@
 #
-#         ( BUTAC LAST VERSION NOVEMBER )
+#         ( BUTAC LAST VERSION NOVEMBER 2023 )
 # Sources: https://www.butac.it/the-black-list/
 # Sources 2: other
 #
@@ -151,6 +151,7 @@
 0.0.0.0 ||informazionelibera.eu^
 0.0.0.0 ||ingannati.it^
 0.0.0.0 ||interagisco.net^
+0.0.0.0 ||inzaion.com^
 0.0.0.0 ||iovivoaroma.org^
 0.0.0.0 ||iozummo.com^
 0.0.0.0 ||irresponsabile.com^
@@ -344,6 +345,7 @@
 0.0.0.0 ||videoviraliweb.com^
 0.0.0.0 ||vigilantcitizen.com^
 0.0.0.0 ||viralmagazine.it^
+0.0.0.0 ||visionetv.it^
 0.0.0.0 ||vivoinsalute.com^
 0.0.0.0 ||vnews24.it^
 0.0.0.0 ||vocedelweb.com^
