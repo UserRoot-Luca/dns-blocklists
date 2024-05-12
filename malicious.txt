@@ -22,6 +22,7 @@
 0.0.0.0 ||monte-paschi-siena.com^
 0.0.0.0 ||n1yr.com^
 0.0.0.0 ||nenadkovacic.com^
+0.0.0.0 ||netflixsub-bills.com^
 0.0.0.0 ||nijenterprise.in^
 0.0.0.0 ||o93.me^
 0.0.0.0 ||oznzpf.com^
