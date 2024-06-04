@@ -260,6 +260,7 @@
 0.0.0.0 ||politicanews.altervista.org^
 0.0.0.0 ||politikstube.com^
 0.0.0.0 ||presadicoscienza.altervista.org^
+0.0.0.0 ||proitalia.org^
 0.0.0.0 ||questaitalia.wordpress.com^
 0.0.0.0 ||radioradio.it^
 0.0.0.0 ||raffaelepalermonews.com^
