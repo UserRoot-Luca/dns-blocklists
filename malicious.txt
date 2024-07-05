@@ -29,6 +29,7 @@
 0.0.0.0 ||postepayitalia.net^
 0.0.0.0 ||preview-domain.com^
 0.0.0.0 ||uncredit-italia.com^
+0.0.0.0 ||wa.me^
 0.0.0.0 ||wcomhost.com^
 0.0.0.0 ||whatsappitaly.it^
 0.0.0.0 ||zb5.me^
