@@ -1,5 +1,5 @@
 #
-#         ( BUTAC LAST VERSION NOVEMBER 2023 )
+#         ( BUTAC LAST VERSION DECEMBER 2024 )
 # Sources: https://www.butac.it/the-black-list/
 # Sources 2: other
 #
@@ -12,6 +12,7 @@
 0.0.0.0 ||5stellenews.com^
 0.0.0.0 ||accademiadellaliberta.blogspot.it^
 0.0.0.0 ||adfnews.it^
+0.0.0.0 ||agenews.eu^
 0.0.0.0 ||aidaa-animaliambiente.blogspot.it^
 0.0.0.0 ||albainternazionale.blogspot.it^
 0.0.0.0 ||alcyonpleiadi.blogspot.it^
@@ -29,7 +30,10 @@
 0.0.0.0 ||attivo.tv^
 0.0.0.0 ||aurorasito.wordpress.com^
 0.0.0.0 ||autismovaccini.org^
+0.0.0.0 ||baseitalia.net^
 0.0.0.0 ||bastabugie.it^
+0.0.0.0 ||beforeitsnews.com^
+0.0.0.0 ||benesserefeed.it^
 0.0.0.0 ||benitomussolini.altervista.org^
 0.0.0.0 ||bitchute.com^
 0.0.0.0 ||blogdieles.altervista.org^
@@ -41,12 +45,15 @@
 0.0.0.0 ||bordernights.it^
 0.0.0.0 ||breaknotizie.com^
 0.0.0.0 ||buonamente.com^
+0.0.0.0 ||business.it^
+0.0.0.0 ||buzzfeed.com^
 0.0.0.0 ||byoblu.com^
 0.0.0.0 ||casadelsole.tv^
 0.0.0.0 ||catenaumana.com^
 0.0.0.0 ||centrometeoitaliano.it^
 0.0.0.0 ||chesuccede.it^
 0.0.0.0 ||chiaveorgonica.altervista.org^
+0.0.0.0 ||christiantoday.com^
 0.0.0.0 ||citymilanonews.com^
 0.0.0.0 ||comedonchisciotte.org^
 0.0.0.0 ||comilva.org^
@@ -60,6 +67,7 @@
 0.0.0.0 ||controinformo.info^
 0.0.0.0 ||controinformoblog.altervista.org^
 0.0.0.0 ||corrieredelcorsaro.it^
+0.0.0.0 ||corrieredellapera.com^
 0.0.0.0 ||corrieredelmattino.altervista.org^
 0.0.0.0 ||corrieredelmattino.it^
 0.0.0.0 ||corrieredisera.it^
@@ -68,6 +76,7 @@
 0.0.0.0 ||curiosandoonline.com^
 0.0.0.0 ||curiosityalive.altervista.org^
 0.0.0.0 ||cvdiariodelpollinho.altervista.org^
+0.0.0.0 ||dailysceptic.org^
 0.0.0.0 ||databaseitalia.it^
 0.0.0.0 ||dcnews.it^
 0.0.0.0 ||delta-leveritanascoste.blogspot.it^
@@ -78,6 +87,7 @@
 0.0.0.0 ||direttanews.it^
 0.0.0.0 ||direttanews24.com^
 0.0.0.0 ||direttanfo.blogspot.it^
+0.0.0.0 ||disclose.tv^
 0.0.0.0 ||disinformazione.it^
 0.0.0.0 ||disquisendo.wordpress.com^
 0.0.0.0 ||ecocreando.weebly.com^
@@ -89,6 +99,8 @@
 0.0.0.0 ||europeannews.altervista.org^
 0.0.0.0 ||eurosalus.com^
 0.0.0.0 ||eventiavversi.it^
+0.0.0.0 ||eviemagazine.com^
+0.0.0.0 ||expose-news.com^
 0.0.0.0 ||facebooknotizia.altervista.org^
 0.0.0.0 ||fenixx.org^
 0.0.0.0 ||filosofiaelogos.it^
@@ -175,6 +187,7 @@
 0.0.0.0 ||lacrunadellago.net^
 0.0.0.0 ||lacucinasiciliana.altervista.org^
 0.0.0.0 ||lafucina.it^
+0.0.0.0 ||laltraimola.it^
 0.0.0.0 ||lapekoranera.it^
 0.0.0.0 ||lapillolarossa15.altervista.org^
 0.0.0.0 ||larepubblica.info^
@@ -217,6 +230,7 @@
 0.0.0.0 ||neovitruvian.wordpress.com^
 0.0.0.0 ||nessuna-censura.com^
 0.0.0.0 ||newapocalypse.altervista.org^
+0.0.0.0 ||news24roma.com^
 0.0.0.0 ||newscronaca.it^
 0.0.0.0 ||newsitalys.com^
 0.0.0.0 ||newstime24.altervista.org^
@@ -234,6 +248,7 @@
 0.0.0.0 ||notiziariosegreto.wordpress.com^
 0.0.0.0 ||notizie24.net^
 0.0.0.0 ||notizie24h.net^
+0.0.0.0 ||notiziea5stelle.it^
 0.0.0.0 ||notiziedalpopolo.altervista.org^
 0.0.0.0 ||notizieflash.eu^
 0.0.0.0 ||notizieinmovimentonews.blogspot.it^
@@ -247,6 +262,7 @@
 0.0.0.0 ||oggi24ore.altervista.org^
 0.0.0.0 ||ogginotizie.info^
 0.0.0.0 ||olivieromannucci.blogspot.it^
+0.0.0.0 ||oltre.tv^
 0.0.0.0 ||oltrelebarricate.wordpress.com^
 0.0.0.0 ||ottolinatv.it^
 0.0.0.0 ||pandapazzo.com^
@@ -261,6 +277,7 @@
 0.0.0.0 ||politikstube.com^
 0.0.0.0 ||presadicoscienza.altervista.org^
 0.0.0.0 ||proitalia.org^
+0.0.0.0 ||punchng.com^
 0.0.0.0 ||questaitalia.wordpress.com^
 0.0.0.0 ||radioradio.it^
 0.0.0.0 ||raffaelepalermonews.com^
@@ -304,6 +321,7 @@
 0.0.0.0 ||sitoaurora.wordpress.com^
 0.0.0.0 ||skynews.it^
 0.0.0.0 ||skytg24news.com^
+0.0.0.0 ||slaynews.com^
 0.0.0.0 ||socialbuzz.it^
 0.0.0.0 ||socialnotixweb.com^
 0.0.0.0 ||soloitaliani.com^
@@ -329,7 +347,9 @@
 0.0.0.0 ||tgcom24news.com^
 0.0.0.0 ||thecancermagazine.blogspot.it^
 0.0.0.0 ||thedayafter2012.blogspot.com^
+0.0.0.0 ||theepochtimes.com^
 0.0.0.0 ||thelivingspirits.net^
+0.0.0.0 ||thepeoplesvoice.tv^
 0.0.0.0 ||thetonicexpress.com^
 0.0.0.0 ||ticinolive.ch^
 0.0.0.0 ||tmcrew.org^
@@ -360,6 +380,7 @@
 0.0.0.0 ||webnews24h.it^
 0.0.0.0 ||webnotice.altervista.org^
 0.0.0.0 ||webtg24.com^
+0.0.0.0 ||wishusluck.blogg.no^
 0.0.0.0 ||wwwblogdicristian.blogspot.it^
 0.0.0.0 ||younetspiegalevele.altervista.org^
 0.0.0.0 ||zapping2017.myblog.it^
